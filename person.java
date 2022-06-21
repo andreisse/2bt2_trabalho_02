@@ -1,4 +1,4 @@
-package Trabalhos_poo.Trabalho_lista;
+package Trabalhos_poo.trabalho_02;
 
 public class Pessoa {
     private int id;
